@@ -1,5 +1,14 @@
+# arppoison
 arppoison/bin
 arppoison/include
 arppoison/lib
 arppoison/lib64
 arppoison/pyvenv.cfg
+
+# botsGram
+botsGram/bin
+botsGram/include
+botsGram/lib
+botsGram/lib64
+botsGram/pyvenv.cfg
+botsGram/share
